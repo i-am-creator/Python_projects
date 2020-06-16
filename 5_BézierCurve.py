@@ -1,24 +1,3 @@
-tk 2020-06-16 10-03-43.mp4
-
-Type
-Video
-Size
-30 MB (31,648,236 bytes)
-Storage used
-30 MB (31,648,236 bytes)
-Location
-Python
-Owner
-me
-Modified
-10:14 AM by me
-Opened
-10:12 AM by me
-Created
-10:10 AM with Google Drive Web
-Add a description
-Caption tracks
-Viewers can download
 import tkinter as tk
 from tkinter import *
 
