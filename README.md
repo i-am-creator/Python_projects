@@ -37,11 +37,21 @@ The basic flocking model consists of three simple steering behaviors which descr
           
           
           
-### [Bézier curve](5_BézierCurve.py)
+## [Bézier curve](5_BézierCurve.py)
 
 A Bézier curve (/ˈbɛz.i.eɪ/ BEH-zee-ay)[1] is a parametric curve used in computer graphics and related fields.[2] The curve, which is related to the Bernstein polynomial, is named after Pierre Bézier, who used it in the 1960s for designing curves for the bodywork of Renault cars. (https://en.wikipedia.org/wiki/B%C3%A9zier_curve#:~:text=A%20B%C3%A9zier%20curve%20(%2F%CB%88b,the%20bodywork%20of%20Renault%20cars.)
 
 
 
 [VIDEOS](https://drive.google.com/file/d/1wD7nvwxiOuO3j4nB4xemjzKs3IaeYotA/view?usp=sharing)
+
+
+## [NewGame](newGame1.3/main.py)
+
+My frist Game in Python
+
+[VIDEOS](https://drive.google.com/file/d/18FhZ_kY1MLTFhubpyqhOV-XNxP9AE0Tq/view?usp=sharing)
+
+
+
 
