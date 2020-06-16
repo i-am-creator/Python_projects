@@ -2,7 +2,7 @@
 My all beginner python projects
 
 
-## StarFiels
+## 1_star_field.py
 
 A simple tkinter program to learn how to use tkinter and OOPs concept.
 
