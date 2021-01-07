@@ -5,19 +5,19 @@ My all beginner python projects
 ## [StarFiels](https://github.com/i-am-creator/Python_projects/blob/master/1_star_field.py)
 
 A simple tkinter program to learn how to use tkinter and OOPs concept.
-[![](https://github.com/i-am-creator/Python_projects/blob/master/images/starfield.gif)](http://www.youtube.com/watch?v=XwKYypBxOTo "StarField")
+[![](./images/starfield.gif)](http://www.youtube.com/watch?v=XwKYypBxOTo "StarField")
 
 
 ## [RAY CASTING](https://github.com/i-am-creator/Python_projects/blob/master/2_2D_RayCasting.py)
 
 In this program, I implement a basic ray casting engine with line segment "surfaces" and vector "rays." The result simulates a light source casting shadows in a 2D canvas. And also learn how to take inputs from mouse in tkinter and how thing work according to user input.
 
-[![](https://github.com/i-am-creator/Python_projects/blob/master/images/Ray.gif)](https://youtu.be/dWtuROPuh0w "Ray")
+[![](./images/Ray.gif)](https://youtu.be/dWtuROPuh0w "Ray")
 
 ## [Rendering Raycasting](3_Rendering_Raycasting.py)
 
 Building off of the previous coding challenge (2D Ray Casting) I attempt to make my own version the original Wolfenstein 3D Raycasting engine and visualize the "field of view" of the moving particle.
-[![](https://github.com/i-am-creator/Python_projects/blob/master/images/ray2.gif)](https://youtu.be/0ZZDAAb0mIc "Raycasting")
+[![](./images/ray2.gif)](https://youtu.be/0ZZDAAb0mIc "Raycasting")
 
 ## [BOIDS](4_biods.py)
 
@@ -29,8 +29,11 @@ The basic flocking model consists of three simple steering behaviors which descr
 
 ###    Separation: 
           steer to avoid crowding local flockmates
+          
 ###    Alignment:
           steer towards the average heading of local flockmates
+
+
 ###    Cohesion:
           steer to move toward the average position of local flockmates
           
