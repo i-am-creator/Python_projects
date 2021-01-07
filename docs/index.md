@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Python_projects
+My all beginner python projects
 
-You can use the [editor on GitHub](https://github.com/i-am-creator/Python_projects/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [StarFiels](https://github.com/i-am-creator/Python_projects/blob/master/1_star_field.py)
 
-### Markdown
+A simple tkinter program to learn how to use tkinter and OOPs concept.
+[![](https://github.com/i-am-creator/Python_projects/blob/master/images/starfield.gif)](http://www.youtube.com/watch?v=XwKYypBxOTo "StarField")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## [RAY CASTING](https://github.com/i-am-creator/Python_projects/blob/master/2_2D_RayCasting.py)
 
-# Header 1
-## Header 2
-### Header 3
+In this program, I implement a basic ray casting engine with line segment "surfaces" and vector "rays." The result simulates a light source casting shadows in a 2D canvas. And also learn how to take inputs from mouse in tkinter and how thing work according to user input.
 
-- Bulleted
-- List
+[![](https://github.com/i-am-creator/Python_projects/blob/master/images/Ray.gif)](https://youtu.be/dWtuROPuh0w "Ray")
 
-1. Numbered
-2. List
+## [Rendering Raycasting](3_Rendering_Raycasting.py)
 
-**Bold** and _Italic_ and `Code` text
+Building off of the previous coding challenge (2D Ray Casting) I attempt to make my own version the original Wolfenstein 3D Raycasting engine and visualize the "field of view" of the moving particle.
+[![](https://github.com/i-am-creator/Python_projects/blob/master/images/ray2.gif)](https://youtu.be/0ZZDAAb0mIc "Raycasting")
 
-[Link](url) and ![Image](src)
-```
+## [BOIDS](4_biods.py)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+In this program, I create a flocking simulation in Python based on Craig Reynolds ["boids" algorithm](https://www.red3d.com/cwr/boids/).
+[VIDEOS](https://drive.google.com/file/d/1yLBndM-pUy8X3xHR91Be8UXQ-KuI8ULD/view?usp=sharing)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/i-am-creator/Python_projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The basic flocking model consists of three simple steering behaviors which describe how an individual boid maneuvers based on the positions and velocities its nearby flockmates:
 
-### Support or Contact
+###    Separation: 
+          steer to avoid crowding local flockmates
+###    Alignment:
+          steer towards the average heading of local flockmates
+###    Cohesion:
+          steer to move toward the average position of local flockmates
+          
+          
+          
+## [Bézier curve](5_BézierCurve.py)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A Bézier curve (/ˈbɛz.i.eɪ/ BEH-zee-ay)[1] is a parametric curve used in computer graphics and related fields.[2] The curve, which is related to the Bernstein polynomial, is named after Pierre Bézier, who used it in the 1960s for designing curves for the bodywork of Renault cars. (https://en.wikipedia.org/wiki/B%C3%A9zier_curve#:~:text=A%20B%C3%A9zier%20curve%20(%2F%CB%88b,the%20bodywork%20of%20Renault%20cars.)
+
+
+
+[VIDEOS](https://drive.google.com/file/d/1wD7nvwxiOuO3j4nB4xemjzKs3IaeYotA/view?usp=sharing)
+
+
+## [NewGame](newGame1.3/main.py)
+
+My frist Game in Python
+
+[VIDEOS](https://drive.google.com/file/d/18FhZ_kY1MLTFhubpyqhOV-XNxP9AE0Tq/view?usp=sharing)
+
+
+
