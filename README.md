@@ -11,14 +11,13 @@ A simple tkinter program to learn how to use tkinter and OOPs concept.
 ## [RAY CASTING](https://github.com/i-am-creator/Python_projects/blob/master/2_2D_RayCasting.py)
 
 In this program, I implement a basic ray casting engine with line segment "surfaces" and vector "rays." The result simulates a light source casting shadows in a 2D canvas. And also learn how to take inputs from mouse in tkinter and how thing work according to user input.
-[VIDEOS](https://drive.google.com/file/d/1-kjvtnIOQeEdkgkUwZo0NwbGuxSJCoDe/view?usp=sharing)
-[VIDEOS](https://drive.google.com/file/d/1-krN0YGYfSoC-GZYjQTQLCTOdNqqXcb-/view?usp=sharing)
 
+[![](https://github.com/i-am-creator/Python_projects/blob/master/images/Ray.gif)](https://youtu.be/dWtuROPuh0w "Ray")
 
 ## [Rendering Raycasting](3_Rendering_Raycasting.py)
 
 Building off of the previous coding challenge (2D Ray Casting) I attempt to make my own version the original Wolfenstein 3D Raycasting engine and visualize the "field of view" of the moving particle.
-[VIDEOS](https://drive.google.com/file/d/10Bi9vMS3Mu2hOKnq-b87rkKQ8C1Mj2ZV/view?usp=sharing)
+[![](https://github.com/i-am-creator/Python_projects/blob/master/images/ray2.gif)](https://youtu.be/0ZZDAAb0mIc "Raycasting")
 
 ## [BOIDS](4_biods.py)
 
