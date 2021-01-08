@@ -23,7 +23,6 @@ Building off of the previous coding challenge (2D Ray Casting) I attempt to make
 
 
 In this program, I create a flocking simulation in Python based on Craig Reynolds ["boids" algorithm](https://www.red3d.com/cwr/boids/).
-[VIDEOS](https://drive.google.com/file/d/1yLBndM-pUy8X3xHR91Be8UXQ-KuI8ULD/view?usp=sharing)
 
 The basic flocking model consists of three simple steering behaviors which describe how an individual boid maneuvers based on the positions and velocities its nearby flockmates:
 
@@ -37,7 +36,8 @@ The basic flocking model consists of three simple steering behaviors which descr
 ###    Cohesion:
           steer to move toward the average position of local flockmates
           
-          
+[![](./images/boid.gif)](https://youtu.be/9exutmsIghQ)
+
           
 ## [Bézier curve](5_BézierCurve.py)
 
