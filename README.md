@@ -45,14 +45,17 @@ A Bézier curve (/ˈbɛz.i.eɪ/ BEH-zee-ay)[1] is a parametric curve used in com
 
 
 
-[VIDEOS](https://drive.google.com/file/d/1wD7nvwxiOuO3j4nB4xemjzKs3IaeYotA/view?usp=sharing)
+[![Watch the video](https://img.youtube.com/vi/RHpS0SegHEs/maxresdefault.jpg)](https://youtu.be/RHpS0SegHEs)
+
+
+
 
 
 ## [NewGame](newGame1.3/main.py)
 
 My frist Game in Python
 
-[VIDEOS](https://drive.google.com/file/d/18FhZ_kY1MLTFhubpyqhOV-XNxP9AE0Tq/view?usp=sharing)
+
 [![Watch the video](https://img.youtube.com/vi/7zheYe2BkF4/maxresdefault.jpg)](https://youtu.be/7zheYe2BkF4)
 
 
